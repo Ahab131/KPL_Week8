@@ -1,0 +1,13 @@
+﻿{
+  "lang": "id",
+  "transfer": {
+    "threshold": 10000000,
+    "low_fee": 5000,
+    "high_fee": 20000
+  },
+  "methods": ["SKN", "RTGS", "QRIS"],
+  "confirmation": {
+    "en": "ok",
+    "id": "oke"
+  }
+}
